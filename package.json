@@ -1,0 +1,8 @@
+{
+  "name": "Random GeoJson",
+  "version": "1.0.0",
+  "description": "Creates random GeoJson features",
+  "main": "index.js",
+  "author": "Dennis Wilhelm",
+  "license": "MIT"
+}
